@@ -1,13 +1,13 @@
 {
   "devDependencies": {
     "babel-eslint": "8.2.1",
-    "cypress": "3.2.0",
+    "cypress": "^3.4.1",
     "eslint": "4.17.0",
     "eslint-config-opuscapita": "2.0.1",
     "eslint-plugin-react": "7.7.0",
     "lerna": "2.8.0"
   },
-  "name": "@opuscapita/filemanager-packages",
+  "name": "@alcacoop/filemanager-packages",
   "private": true,
   "npmClientArgs": [
     "--no-lockfile"
