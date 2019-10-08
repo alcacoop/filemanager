@@ -1,13 +1,13 @@
 {
   "name": "@alcacoop/filemanger-demoapp",
-  "version": "1.1.0-beta.7",
+  "version": "1.1.0-beta.8",
   "main": "index.js",
   "scripts": {},
   "private": true,
   "author": "Alexey Sergeev <sab@scand.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@alcacoop/filemanager-server": "1.1.0-beta.7",
+    "@alcacoop/filemanager-server": "1.1.0-beta.8",
     "compression": "1.7.1",
     "express": "4.16.2"
   }
